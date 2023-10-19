@@ -19,3 +19,5 @@ This is a simple Python application that allows users to track start and stop ti
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+![Screenshot_2](https://github.com/KasTheTrash/super_duper_application/assets/131665221/2dd46956-e470-417a-bb07-0c0ef012a054)
